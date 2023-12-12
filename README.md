@@ -1,5 +1,14 @@
 # Car-rental
-Car rental with nextJs, typescript, tailwindcss, graphql and stripe
+
+# Key Features:
+
+🔍 Filtering by Category: Explore a wide variety of car options, customizing your search according to your preferences.
+
+🗓️ Simple Booking with Interactive Calendar: Our intuitive system allows you to conveniently schedule your vehicle rental. Use our interactive calendar to choose the dates you want.
+
+💰 Transparent Cost Calculation: See the estimated value of your rent instantly, with the possibility of adjusting dates to optimize costs according to your schedule.
+
+🚀 Secure Payment with Stripe: After confirming the information, you will be redirected to a secure payment page, powered by the reliable Stripe platform. We guarantee safe and secure transactions.
 
 # Technologies used:
 - NextJs
